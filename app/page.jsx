@@ -14,7 +14,7 @@ export default function Home() {
     <main className=''>
       <div className='text-center mt-32'>
           <ParticlesComponent id='particles'/>
-        <p className=' text-sm font-semibold'>Hey, i'm</p>
+        <p className=' text-sm font-semibold'>Hey, i&apos;m</p>
         <div className='text-4xl font-bold text-slate-900 mt-2'>  
             <Typewriter
                   options={{
@@ -58,7 +58,7 @@ export default function Home() {
                         Hey, my name is Musannif Rasheed, a 27-year-old accomplished fullstack developer with nearly four years of experience.
                         I have worked in various developer roles and am currently an indie hacker, focused on launching my own SaaS product. 
                         My journey in programming is driven by passion and self-discipline. As Steve Jobs once said, 
-                        "The only way to do great work is to love what you do." I embody this philosophy, consistently delivering high-quality,
+                        &quot;The only way to do great work is to love what you do.&quot; I embody this philosophy, consistently delivering high-quality,
                         innovative solutions. With a strong foundation in both front-end and back-end development, 
                         I am dedicated to pushing the boundaries of technology and making a significant impact in the industry
                       </p>
