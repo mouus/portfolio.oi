@@ -1,9 +1,9 @@
 import React from 'react'
 
-function Footer() {
+export default function Footer() {
   return (
-    <div>Footer</div>
+    <div>
+      <p className='bg-slate-950  px-5 lg:px-0 text-white text-xs'>&#64; 2024 mus</p>
+    </div>
   )
 }
-
-export default Footer
