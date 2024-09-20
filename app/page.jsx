@@ -26,8 +26,8 @@ export default function Home() {
             }}
           />
           <div className='flex gap-5 mt-5 justify-center'>
-            <Link href={'#'}><FaGithub size={20} /></Link>
-            <Link href={'#'}><FaLinkedin size={20} /></Link>
+            <Link href={'https://github.com/mouus'}><FaGithub size={20} /></Link>
+            <Link href={'https://www.linkedin.com/in/ahmed-rasheed-378b152a1/'}><FaLinkedin size={20} /></Link>
           </div>
         </div>
       </div>
@@ -211,7 +211,7 @@ export default function Home() {
                   <h2 className='text-md font-semibold'>
                     <span className='text-xl'>1#</span> Star-shipment
                   </h2>
-                  <Link href={'#'}>
+                  <Link href={'https://github.com/mouus/star-shipment'}>
                     <div className='flex gap-2 items-center'>
                       <FaGithub size={18} />
                       <p className='text-xs text-blue-500'>browse on github</p>
@@ -233,7 +233,7 @@ export default function Home() {
                   <h2 className='text-md font-semibold'>
                     <span className='text-xl'>2#</span> Sithaana-hardware
                   </h2>
-                  <Link href={'#'}>
+                  <Link href={'https://github.com/mouus/sithaana'}>
                     <div className='flex gap-2 items-center'>
                       <FaGithub size={18} />
                       <p className='text-xs text-blue-500'>browse on github</p>
@@ -267,7 +267,7 @@ export default function Home() {
                   <h2 className='text-md font-semibold'>
                     <span className='text-xl'>3#</span> Fvm-news
                   </h2>
-                  <Link href={'#'}>
+                  <Link href={'https://github.com/mouus/fvm_news'}>
                     <div className='flex gap-2 items-center'>
                       <FaGithub size={18} />
                       <p className='text-xs text-blue-500'>browse on github</p>
@@ -288,7 +288,7 @@ export default function Home() {
                   <h2 className='text-md font-semibold'>
                     <span className='text-xl'>4#</span> One-bloodbank
                   </h2>
-                  <Link href={'#'}>
+                  <Link href={'https://github.com/mouus/onebloodbank'}>
                     <div className='flex gap-2 items-center'>
                       <FaGithub size={18} />
                       <p className='text-xs text-blue-500'>browse on github</p>
