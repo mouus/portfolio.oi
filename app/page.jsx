@@ -257,7 +257,7 @@ export default function Home() {
             {/* Project 3 */}
             <div className='flex flex-col md:flex-row items-center md:items-start'>
               <Image
-                src={'/img/fvm_news.png'}
+                src={'/img/zaff.png'}
                 width={400}
                 height={500}
                 className='rounded-xl'
@@ -265,9 +265,9 @@ export default function Home() {
               <div className='mt-4 md:mt-0 md:ml-4 text-white'>
                 <div className='flex flex-col md:flex-row items-center gap-3'>
                   <h2 className='text-md font-semibold'>
-                    <span className='text-xl'>3#</span> Fvm-news
+                    <span className='text-xl'>3#</span> Zaff-profile
                   </h2>
-                  <Link href={'https://github.com/mouus/fvm_news'}>
+                  <Link href={'https://github.com/mouus/zaff-profile'}>
                     <div className='flex gap-2 items-center'>
                       <FaGithub size={18} />
                       <p className='text-xs text-blue-500'>browse on github</p>
@@ -275,9 +275,9 @@ export default function Home() {
                   </Link>
                 </div>
                 <p className='max-w-lg mt-2'>
-                  FVM-news is a news platform developed with Next.js, Tailwind CSS, and
-                  Supabase for efficient data management. The project was halted as
-                  clients shifted their focus to other ventures. Currently on hold.
+                Developed a frontend website for a client using Next.js and TailwindCSS. 
+                This project showcased my ability to deliver responsive and modern designs 
+                tailored to client needs.
                 </p>
               </div>
             </div>
