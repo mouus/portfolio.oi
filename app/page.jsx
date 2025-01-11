@@ -58,12 +58,10 @@ export default function Home() {
           </div>
           <div className='mt-6 p-4 md:p-6 text-center lg:text-left'>
             <p className='text-white'>
-              Hey, my name is Musannif Rasheed, a 27-year-old accomplished full-stack developer with nearly four years of experience.
-              I have worked in various developer roles and am currently an indie hacker, focused on launching my own SaaS product.
-              My journey in programming is driven by passion and self-discipline. As Steve Jobs once said,
-              &quot;The only way to do great work is to love what you do.&quot; I embody this philosophy, consistently delivering high-quality,
-              innovative solutions. With a strong foundation in both front-end and back-end development,
-              I am dedicated to pushing the boundaries of technology and making a significant impact in the industry.
+              Hi, I&quot;m Musannif Rasheed, a 28-year-old full-stack developer with nearly four years of experience. My journey into programming began during challenging times in my life,
+              driven by a desire to support my family and create something meaningful. Through self-discipline and passion, I taught myself to code and embraced every opportunity to grow.
+              Today, I&quot;m an indie hacker working on my own SaaS product, guided by Steve Jobs&quot; philosophy: “The only way to do great work is to love what you do.” 
+              I&quot;m committed to building innovative solutions that make a positive impact through technology.
             </p>
           </div>
         </div>
@@ -275,9 +273,9 @@ export default function Home() {
                   </Link>
                 </div>
                 <p className='max-w-lg mt-2'>
-                Developed a frontend website for a client using Next.js and TailwindCSS. 
-                This project showcased my ability to deliver responsive and modern designs 
-                tailored to client needs.
+                  Developed a frontend website for a client using Next.js and TailwindCSS.
+                  This project showcased my ability to deliver responsive and modern designs
+                  tailored to client needs.
                 </p>
               </div>
             </div>
