@@ -169,12 +169,7 @@ export default function Home() {
 
             <div className="p-8 bg-gradient-to-br from-gray-900/50 to-indigo-900/30 backdrop-blur-sm border border-gray-500/30 rounded-2xl">
               <p className="text-gray-200 leading-relaxed text-lg">
-                Hi, I'm Musannif Rasheed, a 28-year-old full-stack developer with nearly four years of experience. My
-                journey into programming began during challenging times in my life, driven by a desire to support my
-                family and create something meaningful. Through self-discipline and passion, I taught myself to code and
-                embraced every opportunity to grow. Today, I'm an indie hacker working on my own SaaS product, guided by
-                Steve Jobs' philosophy: "The only way to do great work is to love what you do." I'm committed to
-                building innovative solutions that make a positive impact through technology.
+               Hi, I&apos;m Musannif Rasheed, a full-stack developer with nearly four years of hands-on experience. I got into programming during a difficult period in my life, driven by the need to support my family and build a practical skillset. I taught myself to code and have been focused on growing through real-world projects and continuous learning. Currently, I'm working independently on a SaaS product, aiming to create simple, effective solutions that solve real problems through technology.
               </p>
             </div>
           </div>
