@@ -123,7 +123,7 @@ export default function Home() {
         {/* Hero Section */}
         <div className="text-center mt-16 md:mt-32 px-4">
           <div className="inline-block p-8 bg-gradient-to-br from-indigo-900/20 to-purple-900/20 backdrop-blur-sm border border-indigo-500/30 rounded-2xl shadow-2xl">
-            <p className="text-sm font-semibold text-indigo-300 mb-2">Hey, I'm</p>
+            <p className="text-sm font-semibold text-indigo-300 mb-2">Hey,I&apos;m</p>
             <h1 className="text-3xl md:text-5xl font-bold text-white mb-2 pixel-font">Musannif Rasheed</h1>
             <p className="text-xl md:text-2xl text-indigo-200 mb-6">Full Stack Developer</p>
             <div className="flex gap-6 justify-center">
@@ -169,7 +169,7 @@ export default function Home() {
 
             <div className="p-8 bg-gradient-to-br from-gray-900/50 to-indigo-900/30 backdrop-blur-sm border border-gray-500/30 rounded-2xl">
               <p className="text-gray-200 leading-relaxed text-lg">
-               Hi, I&apos;m Musannif Rasheed, a full-stack developer with nearly four years of hands-on experience. I got into programming during a difficult period in my life, driven by the need to support my family and build a practical skillset. I taught myself to code and have been focused on growing through real-world projects and continuous learning. Currently, I'm working independently on a SaaS product, aiming to create simple, effective solutions that solve real problems through technology.
+               Hi, I&apos;m Musannif Rasheed, a full-stack developer with nearly four years of hands-on experience. I got into programming during a difficult period in my life, driven by the need to support my family and build a practical skillset. I taught myself to code and have been focused on growing through real-world projects and continuous learning. Currently, I&apos;m working independently on a SaaS product, aiming to create simple, effective solutions that solve real problems through technology.
               </p>
             </div>
           </div>
