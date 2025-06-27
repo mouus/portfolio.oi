@@ -14,7 +14,7 @@ export default function Home() {
         "Star-shipment is an ongoing web platform built with Next.js and Tailwind CSS, connecting buyers with suppliers. The project is currently under development for a client, with a scalable backend to be implemented using Supabase.",
       github: "https://github.com/mouus/star-shipment",
       tech: ["Next.js", "Tailwind CSS", "Supabase"],
-      status: "In Development",
+      status: "Paused",
       lastUpdated: "Sep 20, 2024",
     },
     // {
@@ -42,9 +42,9 @@ export default function Home() {
       id: 4,
       name: "One-bloodbank",
       description:
-        "One-blood bank is a React Native app developed to connect blood donors and recipients in the Maldives, addressing the challenge of finding blood. The project was paused as the client shifted focus to other ventures.",
+        "One-blood bank is a React Native app developed to connect blood donors and recipients in the Maldives, addressing the challenge of finding blood. The project was paused as the client shifted focus.",
       github: "https://github.com/mouus/onebloodbank",
-      tech: ["React Native", "Firebase"],
+      tech: ["React Native", "Supabase"],
       status: "Paused",
       lastUpdated: "2024",
     },
@@ -64,7 +64,7 @@ export default function Home() {
       description:
         "A travel website project built with JavaScript, featuring modern web development practices. Designed to showcase travel destinations and provide an engaging user experience.",
       github: "https://github.com/mouus/zaff-travel",
-      tech: ["JavaScript", "HTML", "CSS"],
+      tech: ["TypeScript", "HTML", "CSS"],
       status: "Completed",
       lastUpdated: "Apr 13, 2024",
     },
